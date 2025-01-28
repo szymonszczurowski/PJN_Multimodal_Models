@@ -6,7 +6,7 @@ Zbiór danych używany w tym projekcie to zmieniona wersja zbioru ChartQA: [Char
 ## Modele
 Wytrenowane modele na wyżej wymienionym zbiorze danych:
 
-- **Moondream2**: [Moondream2 na Hugging Face](https://huggingface.co/vikhyatk/moondream2)
+- **Moondream2**: (https://huggingface.co/vikhyatk/moondream2)
 - **SmolVLM-Base**: [SmolVLM-Base na Hugging Face](https://huggingface.co/HuggingFaceTB/SmolVLM-Base)
 - **Qwen2-VL-2d-Instruct**: [Qwen2-VL-2B-Instruct na Hugging Face](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)
 
