@@ -16,6 +16,10 @@ Fine-tuning został przeprowadzony na jedną epokę na zbiorze treningowym (1200
 Finetuned modele dostępne są tutaj:
 
 - [**PJN_moondream**](https://huggingface.co/krowiemlekommm/PJN_moondream)
+    -  GPU: NVIDIA L4
+    -  ![Train Loss](images/moon_dream_2_loss.png "Train Loss")
+
 - [**SmolVLM**] (link).
 - [**PJN_Qwen_2b**](https://huggingface.co/krowiemlekommm/PJN_qwen_2b)
+    -  GPU: NVIDIA L4
 
