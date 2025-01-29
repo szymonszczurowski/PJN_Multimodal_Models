@@ -41,7 +41,6 @@ Wytrenowane modele na wyżej wymienionym zbiorze danych:
   - Lekka architektura odpowiednia do aplikacji na urządzeniach lokalnych
   - Efektywny system kompresji obrazów
     
-![image](https://github.com/user-attachments/assets/f5702211-5d96-4404-98e9-4cead575fbfb)
 
 ### Qwen2-VL-2B-Instruct
 - **Typ modelu**: Multimodalny (przetwarzanie obrazów, wideo i tekstu)
@@ -58,7 +57,6 @@ Wytrenowane modele na wyżej wymienionym zbiorze danych:
   - Integracja z urządzeniami mobilnymi i robotami
   - Obsługa wielu języków
 
-![image](https://github.com/user-attachments/assets/588f9a31-cfe8-47ee-8c91-c63e2f91e053)
 
 
 ### Fine-tuning
@@ -84,7 +82,8 @@ Efektywność sprawdzona została poprzez porównanie wyników na modelu przed f
 
 #### SmolVLM-Base
 SmolVLM zarówno na bazowym modelu jak i na naszym wyniki ma bardzo nieskie. Jednak nasz model wypada lepiej w tym porównaniu.
-![image](https://github.com/user-attachments/assets/65cbe27d-c1ca-4c24-a278-ef148e25b05e)
+![image](https://github.com/user-attachments/assets/1b8bd384-42d3-4f47-95cb-e03d4b925221)
+
 
 #### Moondream
 W przyadku Moondream wyniki modelu bazowego są lepsze on modelu z przeprowadzaonym fine-tuningiem. I kolejną kweestią jest to, że model stał sie dużo wolniejszy od modelu bazowego.
