@@ -78,3 +78,13 @@ Finetuned modele dostępne są tutaj:
     -  GPU: NVIDIA L4
     - ![Train Loss](images/train_loss_qwen2b.png "Qwen_2B Train Loss")
 
+### Metryki
+
+Efektywność sprawdzona została poprzez porównanie wyników na modelu przed fine-tuningiem i po. Wykorzystaliśy do tego metryki Rouge oraz Blue i wyniekiem jest średnia wszystkich wyników wykonana na zbiorze testowym.
+
+### SmolVLM-Base
+SmolVLM zarówno na bazowym modelu jak i na naszym wyniki ma bardzo nieskie. Jednak nasz model wypada lepiej w tym porównaniu.
+![image](https://github.com/user-attachments/assets/65cbe27d-c1ca-4c24-a278-ef148e25b05e)
+
+### Moondream
+Nasz model jest dużo wolniejszy od modelu bazowego.
