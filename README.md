@@ -7,7 +7,7 @@ Został on pomniejszony i umeszczony na HF: [PJN_CHARTS](https://huggingface.co/
 
 Zbiór danych składa się z 3 klas: "image", "query", "label". Wszystkich przykładów jest 2200 i podzelone zostały na zbiory "train", "val", "test" o następującym rozkładzie:
 
-<img src="wykresy/rozklad.png">
+<img src="plots/rozklad.png">
 
 ## Modele
 Wytrenowane modele na wyżej wymienionym zbiorze danych:
