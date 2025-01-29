@@ -3,12 +3,24 @@
 ## Zbiór danych
 Zbiór danych używany w tym projekcie to zmieniona wersja zbioru ChartQA: [ChartQA](https://huggingface.co/datasets/HuggingFaceM4/ChartQA).
 
+Został on pomniejszony i umeszczony na HF: [PJN_CHARTS](https://huggingface.co/datasets/krowiemlekommm/PJN_CHARTS). 
+
+Zbiór danych składa się z 3 klas: "image", "query", "label". Wszystkich przykładów jest 2200 i podzelone zostały na zbiory "train", "val", "test" o następującym rozkładzie:
+
+<img src="wykresy/rozklad.png">
+
 ## Modele
 Wytrenowane modele na wyżej wymienionym zbiorze danych:
 
 - [**Moondream2**](https://huggingface.co/vikhyatk/moondream2)
 - [**SmolVLM-Base**](https://huggingface.co/HuggingFaceTB/SmolVLM-Base)
 - [**Qwen2-VL-2d-Instruct**](https://huggingface.co/Qwen/Qwen2-VL-2B-Instruct)
+
+#### Moondream
+
+#### SmolVLM-Base
+
+#### Qwen2-VL-2B-Instruct
 
 ### Fine-tuning
 Fine-tuning został przeprowadzony na jedną epokę na zbiorze treningowym (1200 próbek).
